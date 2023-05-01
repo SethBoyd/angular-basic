@@ -1,0 +1,26 @@
+{
+  "name": "angular-basic",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "kkashpur",
+      "email": "kashpur.kostya@gmail.com"
+    }
+  ],
+  "description": "Basic js functionality based on AngularJs",
+  "main": "./src/basic.js",
+  "keywords": [
+    "basic",
+    "functionality",
+    "angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colonB/angular-basic"
+  },
+  "dependencies": {
+    "angular": "git://github.com/angular/bower-angular"
+  },
+  "license": "MIT",
+  "homepage": "http://colonb.org/angular-basic"
+}
